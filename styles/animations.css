@@ -1,0 +1,8 @@
+@keyframes slideFromRight {
+  from {
+    margin-left: 500%;
+  }
+  to {
+    margin: calc((100% - 400px) / 2);
+  }
+}
